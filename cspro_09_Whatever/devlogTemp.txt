@@ -1,0 +1,53 @@
+<Team whatever>  ---  <Jackie Liu>
+<Dungeon Crawlers>
+ ______   ______   __   __   __       ______   _______     
+/_____/\ /_____/\ /_/\ /_/\ /_/\     /_____/\ /______/\    
+\:::_ \ \\::::_\/_\:\ \\ \ \\:\ \    \:::_ \ \\::::__\/__  
+ \:\ \ \ \\:\/___/\\:\ \\ \ \\:\ \    \:\ \ \ \\:\ /____/\ 
+  \:\ \ \ \\::___\/_\:\_/.:\ \\:\ \____\:\ \ \ \\:\\_  _\/ 
+   \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \ 
+    \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/ 
+==============================================================
+
+Suggested usage: 
+Insert new dated entries here, pushing older entries down.
+
+2015-01-21
+--------------------------------------------------------------
+David- Created the maps and started on the projectile combat
+later in the project.
+Jackie- Worked out how to shoot projectiles with player 0
+==============================================================
+
+2015-01-20
+--------------------------------------------------------------
+Jackie-
+
+David- Created turtle setups and found models as well as 
+Movement and combat in the Model. Will use patch-painter 
+and techniques-gun later.
+==============================================================
+
+2015-01-18
+--------------------------------------------------------------
+Jackie - Started working on Version 1.0. Established the setting
+         up of the original version of the game, and created 
+         variables for use in the game. Currently working on the
+         patche setup.
+==============================================================
+
+2015-01-15
+--------------------------------------------------------------
+David - downloaded the template for the Devlog and began establishing
+        the Devlog as well as creating a Dropbox folder shared
+        with Jackie and Ms. Genkina
+Jackie - established first entry into the Devlog using the Devlog
+         template 
+==============================================================
+
+
+You may wish to copy/paste the lines below to use as the basis for a new entry:
+2015-01-
+--------------------------------------------------------------
+...
+==============================================================

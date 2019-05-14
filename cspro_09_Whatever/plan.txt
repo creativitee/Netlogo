@@ -1,0 +1,17 @@
+﻿﻿Whatever                                    IntroCS1
+
+pd 9
+
+David Liang, Jackie Liu
+
+1/12/15
+
+
+Final Project Proposal:
+
+Dungeon Crawler or Binding of Isaac
+
+Important Link: http://bert.stuy.edu/pbrooks/fall2014/materials/intro/intro_homepage.htm
+
+
+Dungeon crawler is simulation/game where you are a turtle inside a dungeon, and there are several levels in the dungeon, where you can pick up items and try to survive and beat the game. You will encounter enemies along the way to a final boss and try to reach the next stage of the dungeon, after clearing all the objectives in the level, whether it is beating all the enemies, or find a way out to possibly a treasure. The dungeon will consist of enemy turtles and the use of DIrectional keys for movement of the turtle that the user controls. There will be patches that represent food, hp regen, treasure, items, or things that buff the statistics of the turtle or debuff the statistics of the turtle. That said, each turtle has a certain amount of HP and Mana, where HP represents the amount of health for each turtle and Mana can be used for special skills such as dash forward an extra amount or deal extra damage for a certain number of seconds until the mana runs out. That said,  there will be a fighting capability that will probably consist of the controlled turtle attacking the enemies by going near the enemies and if you are in the radius of the enemies, the enemies will automatically attack and deal damage. That said, you will need to attack and move away in order to take less damage and possibly die. If your HP reaches 0, there will be a game over screen and if the last boss’ HP is 0, then it is a victory. Items will randomly spawn on the map to make sure that each time you play the game, it is not the same. Currently, we have not learned about projectiles, so having turtles shoot arrows or projectiles may be      quite hard. Other than, there should be different shapes for each kind of turtle.  In addition, there should be ways to change the level automatically and the enemies should get harder with every level. The amount of HP, Mana, and Difficulty should be adjustable through sliders and there should be monitors to count for the number of turtles. In addition, combat should been show with interaction as well.
